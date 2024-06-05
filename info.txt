@@ -1,1 +1,3 @@
 PW: OYDS0iKJGqb3XuwI
+
+Holy Grail: https://pymongo.readthedocs.io/en/stable/api/pymongo/collection.html#pymongo.collection.Collection
